@@ -1,0 +1,17 @@
+/* reset */
+:root {
+  --font-base: 'Montserrat', sans-serif;
+  font-family: var(--font-base);
+  background-color: #0b0d16;
+  color: #ffffff;
+  box-sizing: border-box;
+}
+/* *,
+*::before, 
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #ffffff;
+  font-family: var(--font-base);
+} */
